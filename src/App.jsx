@@ -44,7 +44,7 @@ const App = () => {
       />
       <Download />
 
-      <div className="px-4 py-2  text-center banner04 bg-primary">
+      <div className="px-4 py-2 justify-center items-center text-center banner04 bg-primary">
       <p className={`${styles.pText} ${styles.whiteText}`}>Made with love by { " " } {/** just a space */}
        <span className="bold">Ahmed Ghannam</span>
       </p>
